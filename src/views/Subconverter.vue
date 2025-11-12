@@ -361,6 +361,10 @@ export default {
             label: "CM规则",
             options: [
               {
+                label: "Clash-wll结合安格 修改版 (与Github同步)",
+                value: "https://raw.githubusercontent.com/jackWANG707/openclash/refs/heads/main/Clash-wll.ini"
+              },
+              {
                 label: "CM_Online 默认版 识别港美地区(与Github同步)",
                 value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini"
               },
@@ -1311,4 +1315,5 @@ export default {
   }
 };
 </script>
+
 
